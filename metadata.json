@@ -1,0 +1,6 @@
+{
+  "name": "Neon Casino",
+  "description": "Sleek dark-mode crypto casino with original mini-games including Mines and Crash, featuring a unified token economy and persistent stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
